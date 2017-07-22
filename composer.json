@@ -12,11 +12,11 @@
     ],
     "require": {
         "yiisoft/yii2": ">=2.0.6",
-        "bower-asset/adminlte": ">=2.3.0"
+        "bower-asset/treegrid": "*"
     },
     "autoload": {
         "psr-4": {
-            "yiichina\\adminlte\\": ""
+            "yiichina\\treegrid\\": ""
         }
     }
 }
